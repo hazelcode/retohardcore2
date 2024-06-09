@@ -1,0 +1,1 @@
+execute as @a if score @s reto.deathDetect matches 1.. run function reto:entity/player/events/on_death
