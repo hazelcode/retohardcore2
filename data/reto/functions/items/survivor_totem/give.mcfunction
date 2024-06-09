@@ -1,1 +1,1 @@
-give @s totem_of_undying{reto:{id:"survivor_totem"}, display:{Name:'{"text": "Tótem de Superviviente", "color": "purple", "italic": false}'}}
+give @s totem_of_undying{CustomModelData:1650001,reto:{id:"survivor_totem"}, display:{Name:'{"text": "Tótem de Superviviente", "color": "purple", "italic": false}'}}
